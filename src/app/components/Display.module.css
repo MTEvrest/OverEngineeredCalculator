@@ -1,0 +1,6 @@
+.display {
+    border: black solid 1px;
+    padding: 3px;
+    display: flex;
+    margin-bottom: 5px;
+}

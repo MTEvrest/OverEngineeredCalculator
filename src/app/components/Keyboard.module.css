@@ -1,0 +1,9 @@
+.keyboard{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 5px; /* Padding between the buttons */
+}
+
+.row {
+    flex-direction: row;
+}
